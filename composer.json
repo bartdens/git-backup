@@ -1,0 +1,11 @@
+{
+    "name": "devart/git-backup",
+    "description": "simple project to commit to git on a regular basis",
+    "authors": [
+        {
+            "name": "Bart Dens",
+            "email": "bart@devart.be"
+        }
+    ],
+    "require": {}
+}
