@@ -1,0 +1,7 @@
+SendCommand:
+  directories:
+      include:
+          - /var/www/
+      exclude:
+          - git-backup
+          - html
