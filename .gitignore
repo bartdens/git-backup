@@ -1,2 +1,5 @@
 /vendor/
 .idea
+src/config/parameters.yml
+
+tests/_output/*
